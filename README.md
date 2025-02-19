@@ -43,10 +43,3 @@ Before running the project, ensure you have:
 4. **Truffle or Hardhat** (for deploying the contract)  
 
 ---
-
-## ⚡ Installation & Setup
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/blockchain-voting-system.git
-cd blockchain-voting-system
